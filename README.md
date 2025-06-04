@@ -1,2 +1,2 @@
 # facerecognitionwithraspberrypi
-Face Recognition Door Control project with Raspberry Pi 3B+ and webcam.
+Face Recognition project with Raspberry Pi 4 and Noir Camera V2.
